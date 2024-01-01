@@ -21,6 +21,7 @@ ul{
 .heroImg{
     height:600px;
     padding:25px;
+    text-align: center;
 }
 .content{
     width: 500px;
@@ -28,7 +29,7 @@ ul{
 }
 footer{
     background-color: #373738;
-    padding-right: 10%;
+    padding-right: 30%;
 }
 footer ul{
     display:inline-block;
